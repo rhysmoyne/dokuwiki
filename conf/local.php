@@ -12,7 +12,6 @@ $conf['license'] = 'cc-by-sa';
 $conf['useacl'] = 1;
 $conf['superuser'] = '@admin';
 $conf['disableactions'] = 'register';
-$conf['userewrite'] = '2';
 $conf['datadir'] = './data/pages';
 $conf['mediadir'] = './data/pages';
 
