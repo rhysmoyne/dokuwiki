@@ -1,3 +1,4 @@
 [submodule "data/pages"]
 	path = data/pages
 	url = https://github.com/CreativeKids/wiki.git
+	branch = master
