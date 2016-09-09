@@ -9,3 +9,6 @@
 .buildpath
 .project
 .settings/
+#DokuWiki
+*cache*
+data/index
