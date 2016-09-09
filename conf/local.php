@@ -13,7 +13,7 @@ $conf['useacl'] = 1;
 $conf['superuser'] = '@admin';
 $conf['disableactions'] = 'register';
 $conf['userewrite'] = '2';
-$conf['datadir'] = './data/wiki';
-$conf['mediadir'] = './data/wiki';
+$conf['datadir'] = './data/pages';
+$conf['mediadir'] = './data/pages';
 
 // end auto-generated content
